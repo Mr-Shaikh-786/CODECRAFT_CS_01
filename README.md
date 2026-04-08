@@ -11,7 +11,7 @@ A simple Python command-line tool that encrypts and decrypts text using the Caes
 
 ## Project Structure
 ```bash
-caesar-cipher-tool/
+CODECRAFT_CS_01/
 ├── caesar_cipher.py
 └── README.md
 ```
