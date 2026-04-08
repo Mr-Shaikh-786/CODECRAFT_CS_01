@@ -1,1 +1,0 @@
-# CODECRAFT_CS_01
